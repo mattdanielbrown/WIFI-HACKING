@@ -1,2 +1,2 @@
 import os
-print("Wifi.py")
+os.system("WIFI.py")
